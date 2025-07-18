@@ -1,3 +1,22 @@
+# Parcel cache
 .parcel-cache/
+
+# Build output
 dist/
+
+# Node modules
 node_modules/
+
+# Sass cache
+*.css
+*.css.map
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Env files
+.env

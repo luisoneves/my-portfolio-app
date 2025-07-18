@@ -50,4 +50,23 @@ Exemplo de `README.md` organizado:
 - `pnpm run dev`
 
 ## 🖼️ Otimização de Imagens
-[Veja o guia completo aqui](./docs/IMAGE_OPTIMIZATION.md)  
+[Veja o guia completo aqui](./docs/IMAGE_OPTIMIZATION.md)
+
+
+# Meu Portfólio
+
+Portfólio pessoal utilizando Parcel e PNPM, estrutura modular com componentes reutilizáveis e organização otimizada para escalabilidade.
+
+## 🚀 Tecnologias
+- Parcel
+- PNPM
+- Sass (em breve)
+- JavaScript
+
+## 📁 Estrutura
+Organizado por seções, componentes e dados em JSON para facilitar manutenção e escalabilidade.
+
+## 📦 Instalação
+```bash
+pnpm install
+pnpm run dev
