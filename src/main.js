@@ -2,7 +2,6 @@
 import './assets/styles/tailwindcss.css';
 import './assets/styles/main.scss';
 
-
 // Seleciona o ponto de montagem
 const app = document.getElementById('app');
 
